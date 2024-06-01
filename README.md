@@ -2,7 +2,6 @@ This is part of the Cyfrin Solidity Blockchain Course.
 
 *[⭐️ Cyfrin Updraft | Welcome to Remix](https://updraft.cyfrin.io/courses/solidity)*
 
-
 *[🎥 YouTube | (2:10:42) | Lesson 2: Welcome to Remix - Simple Storage](https://www.youtube.com/watch?v=umepbfKp5rI&t=7842s)*
 
 ## Getting Started
